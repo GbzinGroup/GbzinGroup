@@ -21,16 +21,16 @@
   <img src="https://img.shields.io/badge/🌐_Meu_Site-0B2850?style=for-the-badge">
 </a>
 <a href="https://github.com/gbzingroup">
-  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 <a href="https://www.instagram.com/gbzingroup">
-  <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
 </a>
 <a href="https://www.youtube.com/@gbzingroup">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube">
 </a>
 <a href="https://www.linkedin.com/company/gbzin">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 </div>
