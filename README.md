@@ -263,31 +263,26 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 <td align="center" width="25%">
   <a href="https://copilot.microsoft.com" target="_blank">
     <img
-      src="https://cdn.simpleicons.org/microsoftcopilot/0078D4"
+      src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/copilot-color.png"
       width="70"
       height="70"
       alt="Microsoft Copilot"
     >
   </a>
-
   <br><br>
-
   <a href="https://copilot.microsoft.com" target="_blank">
     <img
-      src="https://img.shields.io/badge/Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
-      alt="Acessar Copilot"
+      src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
+      alt="Microsoft Copilot"
     >
   </a>
-
   <br><br>
-
   <sub>
-    Assistente Microsoft,
+    Assistente de IA,
     <br>
-    produtividade e código
+    programação e produtividade
   </sub>
 </td>
-
 <!-- Mistral -->
 <td align="center" width="25%">
   <a href="https://mistral.ai" target="_blank">
@@ -383,35 +378,30 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
   </sub>
 </td>
 
-<!-- Blackbox -->
+<!-- Blackbox AI -->
 <td align="center" width="25%">
-  <a href="https://www.blackbox.ai" target="_blank">
+  <a href="https://www.blackbox.ai/" target="_blank">
     <img
-      src="https://cdn.simpleicons.org/blackbox/FFFFFF"
+      src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/blackbox.png"
       width="70"
       height="70"
       alt="Blackbox AI"
     >
   </a>
-
   <br><br>
-
-  <a href="https://www.blackbox.ai" target="_blank">
+  <a href="https://www.blackbox.ai/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge&logo=blackbox&logoColor=white"
-      alt="Acessar Blackbox AI"
+      src="https://img.shields.io/badge/Blackbox%20AI-000000?style=for-the-badge&logo=blackbox&logoColor=white"
+      alt="Blackbox AI"
     >
   </a>
-
   <br><br>
-
   <sub>
-    Programação, geração de código
+    Programação,
     <br>
-    e ferramentas para desenvolvedores
+    código e desenvolvimento
   </sub>
 </td>
-
 <!-- Qwen -->
 <td align="center" width="25%">
   <a href="https://chat.qwen.ai" target="_blank">
