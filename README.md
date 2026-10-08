@@ -108,7 +108,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 
 <td align="center" width="25%" valign="top">
   <a href="https://claude.ai" target="_blank">
-    <img src="https://cdn.simpleicons.org/anthropic/D97757" width="60" height="60" alt="Claude">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="60" height="60" alt="Claude">
   </a>
   <br><br>
   <a href="https://claude.ai" target="_blank">
@@ -120,7 +120,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 
 <td align="center" width="25%" valign="top">
   <a href="https://chatgpt.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/openai/10A37F" width="60" height="60" alt="ChatGPT">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" width="60" height="60" alt="ChatGPT">
   </a>
   <br><br>
   <a href="https://chatgpt.com" target="_blank">
@@ -132,7 +132,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 
 <td align="center" width="25%" valign="top">
   <a href="https://chat.deepseek.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="60" height="60" alt="DeepSeek">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepseek-color.png" width="60" height="60" alt="DeepSeek">
   </a>
   <br><br>
   <a href="https://chat.deepseek.com" target="_blank">
@@ -144,7 +144,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 
 <td align="center" width="25%" valign="top">
   <a href="https://gemini.google.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="60" height="60" alt="Gemini">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="60" height="60" alt="Gemini">
   </a>
   <br><br>
   <a href="https://gemini.google.com" target="_blank">
@@ -164,7 +164,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 
 <td align="center" width="25%" valign="top">
   <a href="https://grok.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="60" height="60" alt="Grok">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/grok.png" width="60" height="60" alt="Grok">
   </a>
   <br><br>
   <a href="https://grok.com" target="_blank">
@@ -176,7 +176,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 
 <td align="center" width="25%" valign="top">
   <a href="https://copilot.microsoft.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoft/0078D4" width="60" height="60" alt="Microsoft Copilot">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/copilot-color.png" width="60" height="60" alt="Microsoft Copilot">
   </a>
   <br><br>
   <a href="https://copilot.microsoft.com" target="_blank">
@@ -188,7 +188,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 
 <td align="center" width="25%" valign="top">
   <a href="https://mistral.ai" target="_blank">
-    <img src="https://cdn.simpleicons.org/mistralai/FA520F" width="60" height="60" alt="Mistral AI">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mistral-color.png" width="60" height="60" alt="Mistral AI">
   </a>
   <br><br>
   <a href="https://mistral.ai" target="_blank">
@@ -200,7 +200,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 
 <td align="center" width="25%" valign="top">
   <a href="https://www.perplexity.ai" target="_blank">
-    <img src="https://cdn.simpleicons.org/perplexity/20B8CD" width="60" height="60" alt="Perplexity">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/perplexity-color.png" width="60" height="60" alt="Perplexity">
   </a>
   <br><br>
   <a href="https://www.perplexity.ai" target="_blank">
@@ -220,7 +220,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 
 <td align="center" width="25%" valign="top">
   <a href="https://www.meta.ai" target="_blank">
-    <img src="https://cdn.simpleicons.org/meta/0467DF" width="60" height="60" alt="Meta AI">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/meta-color.png" width="60" height="60" alt="Meta AI">
   </a>
   <br><br>
   <a href="https://www.meta.ai" target="_blank">
@@ -232,7 +232,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 
 <td align="center" width="25%" valign="top">
   <a href="https://www.blackbox.ai/" target="_blank">
-    <img src="https://cdn.simpleicons.org/blackbox/FFFFFF" width="60" height="60" alt="Blackbox AI">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/blackbox.png" width="60" height="60" alt="Blackbox AI">
   </a>
   <br><br>
   <a href="https://www.blackbox.ai/" target="_blank">
@@ -244,7 +244,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 
 <td align="center" width="25%" valign="top">
   <a href="https://chat.qwen.ai" target="_blank">
-    <img src="https://cdn.simpleicons.org/qwen/615CED" width="60" height="60" alt="Qwen">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/qwen-color.png" width="60" height="60" alt="Qwen">
   </a>
   <br><br>
   <a href="https://chat.qwen.ai" target="_blank">
@@ -256,7 +256,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 
 <td align="center" width="25%" valign="top">
   <a href="https://chat.mistral.ai" target="_blank">
-    <img src="https://cdn.simpleicons.org/mistralai/FA520F" width="60" height="60" alt="Le Chat">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/lechat-color.png" width="60" height="60" alt="Le Chat">
   </a>
   <br><br>
   <a href="https://chat.mistral.ai" target="_blank">
@@ -276,10 +276,3 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 <div align="center">
 
 ### 🧠 Explorando novas tecnologias
-<sub>
-Testando diferentes modelos e ferramentas de IA para descobrir
-<br>
-onde realmente podem ser úteis no desenvolvimento de projetos.
-</sub>
-
-</div>
