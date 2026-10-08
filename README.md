@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram">
 </a>
 <a href="https://www.youtube.com/@gbzingroup">
-  <img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge&logo=youtube">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube">
 </a>
 <a href="https://www.linkedin.com/company/gbzin">
   <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
