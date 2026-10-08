@@ -106,120 +106,52 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 <table align="center" width="100%">
 <tr>
 
-<!-- Claude -->
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
   <a href="https://claude.ai" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/anthropic/D97757"
-      width="70"
-      height="70"
-      alt="Claude"
-    >
+    <img src="https://cdn.simpleicons.org/anthropic/D97757" width="60" height="60" alt="Claude">
   </a>
-
   <br><br>
-
   <a href="https://claude.ai" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"
-      alt="Acessar Claude"
-    >
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Acessar Claude">
   </a>
-
   <br><br>
-
-  <sub>
-    Análise de código, programação,
-    <br>
-    escrita e raciocínio contextual
-  </sub>
+  <sub>Análise de código, programação,<br>escrita e raciocínio contextual</sub>
 </td>
 
-<!-- ChatGPT -->
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
   <a href="https://chatgpt.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/openai.png"
-      width="70"
-      height="70"
-      alt="ChatGPT"
-    >
+    <img src="https://cdn.simpleicons.org/openai/10A37F" width="60" height="60" alt="ChatGPT">
   </a>
-
   <br><br>
-
   <a href="https://chatgpt.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"
-      alt="Acessar ChatGPT"
-    >
+    <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Acessar ChatGPT">
   </a>
-
   <br><br>
-
-  <sub>
-    Desenvolvimento, programação,
-    <br>
-    análise e criação de soluções
-  </sub>
+  <sub>Desenvolvimento, programação,<br>análise e criação de soluções</sub>
 </td>
 
-<!-- DeepSeek -->
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
   <a href="https://chat.deepseek.com" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/deepseek/4D6BFE"
-      width="70"
-      height="70"
-      alt="DeepSeek"
-    >
+    <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="60" height="60" alt="DeepSeek">
   </a>
-
   <br><br>
-
   <a href="https://chat.deepseek.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white"
-      alt="Acessar DeepSeek"
-    >
+    <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="Acessar DeepSeek">
   </a>
-
   <br><br>
-
-  <sub>
-    Raciocínio, programação,
-    <br>
-    matemática e análise
-  </sub>
+  <sub>Raciocínio, programação,<br>matemática e análise</sub>
 </td>
 
-<!-- Gemini -->
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
   <a href="https://gemini.google.com" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/googlegemini/8E75B2"
-      width="70"
-      height="70"
-      alt="Gemini"
-    >
+    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="60" height="60" alt="Gemini">
   </a>
-
   <br><br>
-
   <a href="https://gemini.google.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"
-      alt="Acessar Gemini"
-    >
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Acessar Gemini">
   </a>
-
   <br><br>
-
-  <sub>
-    IA multimodal, pesquisa,
-    <br>
-    código e produtividade
-  </sub>
+  <sub>IA multimodal, pesquisa,<br>código e produtividade</sub>
 </td>
 
 </tr>
@@ -230,115 +162,52 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 <table align="center" width="100%">
 <tr>
 
-<!-- Grok -->
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
   <a href="https://grok.com" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/x/FFFFFF"
-      width="70"
-      height="70"
-      alt="Grok"
-    >
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="60" height="60" alt="Grok">
   </a>
-
   <br><br>
-
   <a href="https://grok.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white"
-      alt="Acessar Grok"
-    >
+    <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Acessar Grok">
   </a>
-
   <br><br>
-
-  <sub>
-    Pesquisa, raciocínio e
-    <br>
-    informações em tempo real
-  </sub>
+  <sub>Pesquisa, raciocínio e<br>informações em tempo real</sub>
 </td>
 
-<!-- Microsoft Copilot -->
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
   <a href="https://copilot.microsoft.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/copilot-color.png"
-      width="70"
-      height="70"
-      alt="Microsoft Copilot"
-    >
+    <img src="https://cdn.simpleicons.org/microsoft/0078D4" width="60" height="60" alt="Microsoft Copilot">
   </a>
   <br><br>
   <a href="https://copilot.microsoft.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
-      alt="Microsoft Copilot"
-    >
+    <img src="https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Acessar Microsoft Copilot">
   </a>
   <br><br>
-  <sub>
-    Assistente de IA,
-    <br>
-    programação e produtividade
-  </sub>
-</td>
-<!-- Mistral -->
-<td align="center" width="25%">
-  <a href="https://mistral.ai" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/mistralai/FA520F"
-      width="70"
-      height="70"
-      alt="Mistral AI"
-    >
-  </a>
-
-  <br><br>
-
-  <a href="https://mistral.ai" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Mistral_AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white"
-      alt="Acessar Mistral AI"
-    >
-  </a>
-
-  <br><br>
-
-  <sub>
-    Modelos de IA eficientes,
-    <br>
-    código e raciocínio
-  </sub>
+  <sub>Assistente de IA,<br>programação e produtividade</sub>
 </td>
 
-<!-- Perplexity -->
-<td align="center" width="25%">
-  <a href="https://www.perplexity.ai" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/perplexity/20B8CD"
-      width="70"
-      height="70"
-      alt="Perplexity"
-    >
+<td align="center" width="25%" valign="top">
+  <a href="https://mistral.ai" target="_blank">
+    <img src="https://cdn.simpleicons.org/mistralai/FA520F" width="60" height="60" alt="Mistral AI">
   </a>
-
   <br><br>
-
-  <a href="https://www.perplexity.ai" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Perplexity-20B8CD?style=for-the-badge&logo=perplexity&logoColor=white"
-      alt="Acessar Perplexity"
-    >
+  <a href="https://mistral.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Mistral_AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" alt="Acessar Mistral AI">
   </a>
-
   <br><br>
+  <sub>Modelos de IA eficientes,<br>código e raciocínio</sub>
+</td>
 
-  <sub>
-    Pesquisa com IA,
-    <br>
-    fontes e informações atuais
-  </sub>
+<td align="center" width="25%" valign="top">
+  <a href="https://www.perplexity.ai" target="_blank">
+    <img src="https://cdn.simpleicons.org/perplexity/20B8CD" width="60" height="60" alt="Perplexity">
+  </a>
+  <br><br>
+  <a href="https://www.perplexity.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Perplexity-20B8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Acessar Perplexity">
+  </a>
+  <br><br>
+  <sub>Pesquisa com IA,<br>fontes e informações atuais</sub>
 </td>
 
 </tr>
@@ -349,115 +218,52 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 <table align="center" width="100%">
 <tr>
 
-<!-- Meta AI -->
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
   <a href="https://www.meta.ai" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/meta/0467DF"
-      width="70"
-      height="70"
-      alt="Meta AI"
-    >
+    <img src="https://cdn.simpleicons.org/meta/0467DF" width="60" height="60" alt="Meta AI">
   </a>
-
   <br><br>
-
   <a href="https://www.meta.ai" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Meta_AI-0467DF?style=for-the-badge&logo=meta&logoColor=white"
-      alt="Acessar Meta AI"
-    >
+    <img src="https://img.shields.io/badge/Meta_AI-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Acessar Meta AI">
   </a>
-
   <br><br>
-
-  <sub>
-    IA da Meta, modelos Llama
-    <br>
-    e recursos multimodais
-  </sub>
+  <sub>IA da Meta, modelos Llama<br>e recursos multimodais</sub>
 </td>
 
-<!-- Blackbox AI -->
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
   <a href="https://www.blackbox.ai/" target="_blank">
-    <img
-      src="https://www.blackbox.ai/favicon.ico"
-      width="70"
-      height="70"
-      alt="Blackbox AI"
-    >
+    <img src="https://cdn.simpleicons.org/blackbox/FFFFFF" width="60" height="60" alt="Blackbox AI">
   </a>
   <br><br>
   <a href="https://www.blackbox.ai/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Blackbox%20AI-000000?style=for-the-badge&logo=blackbox&logoColor=white"
-      alt="Blackbox AI"
-    >
+    <img src="https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Acessar Blackbox AI">
   </a>
   <br><br>
-  <sub>
-    Programação,
-    <br>
-    código e desenvolvimento
-  </sub>
-</td>
-<!-- Qwen -->
-<td align="center" width="25%">
-  <a href="https://chat.qwen.ai" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/qwen/615CED"
-      width="70"
-      height="70"
-      alt="Qwen"
-    >
-  </a>
-
-  <br><br>
-
-  <a href="https://chat.qwen.ai" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white"
-      alt="Acessar Qwen"
-    >
-  </a>
-
-  <br><br>
-
-  <sub>
-    Modelos da Alibaba,
-    <br>
-    código e raciocínio
-  </sub>
+  <sub>Programação,<br>código e desenvolvimento</sub>
 </td>
 
-<!-- Le Chat -->
-<td align="center" width="25%">
-  <a href="https://chat.mistral.ai" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/mistralai/FA520F"
-      width="70"
-      height="70"
-      alt="Le Chat"
-    >
+<td align="center" width="25%" valign="top">
+  <a href="https://chat.qwen.ai" target="_blank">
+    <img src="https://cdn.simpleicons.org/qwen/615CED" width="60" height="60" alt="Qwen">
   </a>
-
   <br><br>
-
-  <a href="https://chat.mistral.ai" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Le_Chat-FA520F?style=for-the-badge&logo=mistralai&logoColor=white"
-      alt="Acessar Le Chat"
-    >
+  <a href="https://chat.qwen.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Acessar Qwen">
   </a>
-
   <br><br>
+  <sub>Modelos da Alibaba,<br>código e raciocínio</sub>
+</td>
 
-  <sub>
-    Assistente da Mistral,
-    <br>
-    pesquisa e produtividade
-  </sub>
+<td align="center" width="25%" valign="top">
+  <a href="https://chat.mistral.ai" target="_blank">
+    <img src="https://cdn.simpleicons.org/mistralai/FA520F" width="60" height="60" alt="Le Chat">
+  </a>
+  <br><br>
+  <a href="https://chat.mistral.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Le_Chat-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" alt="Acessar Le Chat">
+  </a>
+  <br><br>
+  <sub>Assistente da Mistral,<br>pesquisa e produtividade</sub>
 </td>
 
 </tr>
@@ -470,7 +276,6 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 <div align="center">
 
 ### 🧠 Explorando novas tecnologias
-
 <sub>
 Testando diferentes modelos e ferramentas de IA para descobrir
 <br>
