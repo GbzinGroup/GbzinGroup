@@ -139,7 +139,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 <td align="center" width="25%">
   <a href="https://chatgpt.com" target="_blank">
     <img
-      src="https://cdn.simpleicons.org/openai/FFFFFF"
+      src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/openai.png"
       width="70"
       height="70"
       alt="ChatGPT"
