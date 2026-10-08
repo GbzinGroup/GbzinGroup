@@ -382,7 +382,7 @@ Gosto de transformar ideias em produtos funcionais, explorar novas tecnologias e
 <td align="center" width="25%">
   <a href="https://www.blackbox.ai/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/blackbox.png"
+      src="https://www.blackbox.ai/favicon.ico"
       width="70"
       height="70"
       alt="Blackbox AI"
